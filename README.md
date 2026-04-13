@@ -20,10 +20,10 @@
     <td width="550" valign="top">
       <h2 align="center" style="color: #fff; margin-bottom: 5px;">Nepentheus</h2>
       <h4 align="center" style="color: #DE47FC; margin-top: 0px;">Lead Developer @ Lyntera</h4>
-      <p align="left" style="color: #8b949e; font-size: 15px;">
+      <p align="center" style="color: #8b949e; font-size: 15px;">
         I design complex systems and backends for Telegram applications. I love it when code runs fast and every architectural detail is thought through — from core algorithms to resource optimization.
       </p>
-      <p align="left" style="color: #8b949e; font-size: 15px;">
+      <p align="center" style="color: #8b949e; font-size: 15px;">
         For me, development is all about finding effective solutions. I make sure everything stays lightning-fast, reliable, and scales effortlessly to meet any challenge.
       </p>
       <p align="center">
