@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=70&pause=1000&color=DE47FC&center=true&vCenter=true&width=800&height=200&lines=NEPENTHEUS;SYSTEM.INITIALIZE();TECH+DOCS+>+LIFE;LYNTERA.RU" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=70&pause=1000&color=DE47FC&center=true&vCenter=true&width=800&height=200&lines=NEPENTHEUS;SYSTEM.INITIALIZE();TECH+DOCS+>+LIFE;LYNTERA.RU" width="120%" />
 </p>
 
 <p align="center">
