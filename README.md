@@ -26,7 +26,9 @@
       <p align="left" style="color: #8b949e; font-size: 15px;">
         For me, development is all about finding effective solutions. I make sure everything stays lightning-fast, reliable, and scales effortlessly to meet any challenge.
       </p>
-      <code style="color: #de47fc; background: #161b22; padding: 5px; border-radius: 5px;">O(log n) is better than O(n), but GregTech is eternal.</code>
+      <p align="center">
+  <code style="color: #de47fc; background: #161b22; padding: 5px; border-radius: 5px;">O(log n) is better than O(n), but GregTech is eternal.</code>
+</p>
     </td>
   </tr>
 </table>
