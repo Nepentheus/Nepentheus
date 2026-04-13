@@ -15,7 +15,7 @@
 <table border="0" cellpadding="20" cellspacing="0" style="background: #121212; border: 1px solid #30363d; border-radius: 20px;">
   <tr>
     <td width="200" align="center">
-      <img src="assets/apple.gif" width="200" style="border: 2px solid #ffffff; border-radius: 10px;" />
+      <img src="assets/apple.gif" width="210" style="border: 2px solid #ffffff; border-radius: 10px;" />
     </td>
     <td width="550" valign="top">
       <h2 align="center" style="color: #fff; margin-bottom: 5px;">Nepentheus</h2>
