@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=70&pause=1000&color=DE47FC&center=true&vCenter=true&width=800&height=200&lines=NEPENTHEUS;SYSTEM.INITIALIZE();TECH+DOCS+>+LIFE;LYNTERA.RU" width="120%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=70&pause=1000&color=DE47FC&center=true&vCenter=true&width=800&height=200&lines=NEPENTHEUS;SYSTEM.INITIALIZE();TECH+DOCS+>+LIFE;LYNTERA.RU" width="100%" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <table border="0" cellpadding="20" cellspacing="0" style="background: #121212; border: 1px solid #30363d; border-radius: 20px;">
   <tr>
     <td width="200" align="center">
-      <img src="assets/gif.gif" width="160" style="border: 2px solid #ffffff; border-radius: 10px;" />
+      <img src="assets/gif.gif" width="200" style="border: 2px solid #ffffff; border-radius: 10px;" />
     </td>
     <td width="550" valign="top">
       <h2 align="center" style="color: #fff; margin-bottom: 5px;">Nepentheus</h2>
